@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Image Slider</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="prev-btn">
+            <img src="/icons/left.svg" onclick="goPreviousSlide()">
+        </div>
+        <div class="images">
+            <img src="https://source.unsplash.com/1600x900/?space" alt="image loading ....." class="slides">
+            <img src="https://source.unsplash.com/1600x900/?planets" alt="image loading ....." class="slides">
+            <img src="https://source.unsplash.com/1600x900/?galaxies" alt="image loading ....." class="slides">
+            <img src="https://source.unsplash.com/1600x900/?multiverse" alt="image loading ....." class="slides">
+            <img src="https://source.unsplash.com/1600x900/?earth" alt="image loading ....." class="slides">
+            <img src="https://source.unsplash.com/1600x900/?nebulas" alt="image loading ....." class="slides">
+            <img src="https://source.unsplash.com/1600x900/?universe" alt="image loading ....." class="slides">
+        </div>
+        <div class="next-btn">
+            <img src="/icons/right.svg" onclick="goNextSlide()">
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
