@@ -6,9 +6,7 @@ Custom image slider using html5, css3 and javascript
 
 ## Demo
 
-![Demo](<video>
-    <source src="/clip/demo.mkv" type="mp4">
-</video>)
+![Demo](/clip/demo.mkv)
 
 
 ## Tech Stack
