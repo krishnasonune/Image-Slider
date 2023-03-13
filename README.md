@@ -6,7 +6,7 @@ Custom image slider using html5, css3 and javascript
 
 ## Demo
 
-![Demo](./clip/demo.mkv)
+![Demo](https://github.com/krishnasonune/Image-Slider/blob/master/clip/demo.mkv)
 
 
 ## Tech Stack
